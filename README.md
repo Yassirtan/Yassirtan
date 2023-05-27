@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Yassirtan
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... mail me
+- 👀 I’m interested in cybersecurity
+- 🌱 I’m currently learning kali linux 
+- 💞️ I’m looking to collaborate on cybersecurity
+- 📫 How to reach me ... yassirtan@gmail.com
 
 <!---
 Yassirtan/Yassirtan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
